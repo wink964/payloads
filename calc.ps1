@@ -1,0 +1,1 @@
+Start-Process -FilePath "calc.exe" -ArgumentList "/n"; Start-Process -FilePath "calc.exe" -ArgumentList "/n"; Start-Process -FilePath "calc.exe" -ArgumentList "/n"; Start-Process -FilePath "calc.exe" -ArgumentList "/n"
